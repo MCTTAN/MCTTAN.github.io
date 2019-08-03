@@ -1,0 +1,39 @@
+The following output formats are available to use with R Markdown.
+
+Documents
+html_notebook ⧉ - Interactive R Notebooks
+html_document ⧉ - HTML document w/ Bootstrap CSS
+pdf_document ⧉ - PDF document (via LaTeX template)
+word_document ⧉ - Microsoft Word document (docx)
+odt_document ⧉ - OpenDocument Text document
+rtf_document ⧉ - Rich Text Format document
+md_document ⧉ - Markdown document (various flavors)
+Presentations (slides)
+ioslides_presentation ⧉ - HTML presentation with ioslides
+revealjs::revealjs_presentation ⧉ - HTML presentation with reveal.js
+slidy_presentation ⧉ - HTML presentation with W3C Slidy
+beamer_presentation ⧉ - PDF presentation with LaTeX Beamer
+powerpoint_presentation ⧉: PowerPoint presentation
+More
+flexdashboard::flex_dashboard - Interactive dashboards
+tufte::tufte_handout ⧉ - PDF handouts in the style of Edward Tufte
+tufte::tufte_html ⧉ - HTML handouts in the style of Edward Tufte
+tufte::tufte_book ⧉ - PDF books in the style of Edward Tufte
+html_vignette ⧉ - R package vignette (HTML)
+github_document - GitHub Flavored Markdown document
+You can also build books ⧉, websites ⧉, and interactive documents ⧉ with R Markdown.
+
+
+
+
+
+R Markdown renders to four presentation formats:
+
+beamer_presentation ⧉ - PDF presentations with beamer
+ioslides_presentation ⧉ - HTML presentations with ioslides
+slidy_presentation ⧉ - HTML presentations with slidy
+powerpoint_presentation ⧉ - PowerPoint presentation
+revealjs::revealjs_presentation ⧉ - HTML presentations with reveal.js
+Each format will intuitively divide your content into slides, with a new slide beginning at each first or second level header.
+
+Insert a horizontal rule (***) into your document to create a manual slide break. Create incremental bullets with >-, as in the .Rmd file below, which is available here ⧉ on RStudio Cloud.
