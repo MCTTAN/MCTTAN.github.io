@@ -1,5 +1,5 @@
 
-<--! https://rmarkdown.rstudio.com/lesson-4.html -->
+<!-- https://rmarkdown.rstudio.com/lesson-4.html -->
 
 ---
 title: "More colors"
