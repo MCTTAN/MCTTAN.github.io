@@ -292,15 +292,15 @@ nav a::before {
 
 }
 .slides .slide:nth-child(2) {
-  background-image: url(../images/about-bg.jpg);
+  background-image: url(../images/computer.jpg);
   background-position: fixed;
 }
 .slides .slide:nth-child(3) {
-  background-image: url(../images/gallery-bg.jpg);
+  background-image: url(../images/computer.jpg);
   background-position: fixed;
 }
 .slides .slide:nth-child(4) {
-  background-image: url(../images/contact-bg.jpg);
+  background-image: url(../images/computer.jpg);
   background-position: fixed;
 }
 
@@ -340,13 +340,13 @@ nav a::before {
   overflow: hidden;
 }
 #image-slider ul li:nth-child(1) {
-  background-image: url(../images/full-bg-01.jpg);
+  background-image: url(../images/computer.jpg);
 }
 #image-slider ul li:nth-child(2) {
-  background-image: url(../images/full-bg-02.jpg);
+  background-image: url(../images/map.jpg);
 }
 #image-slider ul li:nth-child(3) {
-  background-image: url(../images/full-bg-03.jpg);
+  background-image: url(../images/abstract.jpeg);
 }
 #image-slider ul li.active-img{
   left: 0;
