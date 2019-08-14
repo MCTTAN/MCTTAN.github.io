@@ -1,20 +1,12 @@
-/*!
- * Bootstrap v4.1.1 (https://getbootstrap.com/)
- * Copyright 2011-2018 The Bootstrap Authors
- * Copyright 2011-2018 Twitter, Inc.
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
- */
 :root {
-  --blue: #007bff;
-  --indigo: #6610f2;
-  --purple: #6f42c1;
-  --pink: #e83e8c;
-  --red: #dc3545;
-  --orange: #fd7e14;
-  --yellow: #ffc107;
-  --green: #28a745;
-  --teal: #20c997;
-  --cyan: #17a2b8;
+  --swatch-1: #D2177E;
+  --swatch-2: #941059;
+  --swatch-3: #BC1370;
+  --swatch-4: #540932;
+  --swatch-5: #E11986;
+  --swatch-6: #75A103;
+  --swatch-7: #84D84E;
+  --swatch-14: #DAC52E;
   --white: #fff;
   --gray: #6c757d;
   --gray-dark: #343a40;
@@ -4934,7 +4926,7 @@ button.close {
   vertical-align: text-top !important; }
 
 .bg-primary {
-  background-color: #D4177F !important; }
+  background-color: #ffc107 !important; }
 
 a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,
