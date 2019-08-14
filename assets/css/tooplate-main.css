@@ -232,7 +232,8 @@ nav a::before {
   position: fixed;
  	display: inline-block;
   text-align: center;
-	background-color: #faf5b2;
+	/*background-color: #faf5b2;*/
+	background-color: #D4177F;
 	height: 15%;
 	width: 15%;
 }
@@ -373,7 +374,8 @@ nav a::before {
   transition: all 0.5s;
 }
 #thumbnail ul li.active {
-  border: 5px solid #faf5b2;
+  /*border: 5px solid #faf5b2;*/
+  border: 5px solid #D4177F;
 }
 #thumbnail ul li img {
   max-width: 100%;
@@ -448,8 +450,10 @@ nav a::before {
   border-radius: 50%;
 }
 #tabs ul .ui-tabs-active span {
-  background: #faf5b2;
-  border: #faf5b2;
+  /*background: #faf5b2;*/
+  background: #D4177F;
+  /*border: #faf5b2;*/
+  border: #D4177F;
   line-height: 90px;
   border-bottom: none;
 }
@@ -506,7 +510,8 @@ nav a::before {
 }
 .featured-item .down-content {
   background-color: #fff;
-  border: 5px solid #faf5b2;
+  /*border: 5px solid #faf5b2;*/
+  border: 5px solid #D4177F;
   padding: 15px;
 }
 .featured-item h4 {
@@ -532,7 +537,8 @@ nav a::before {
   display: inline-block;
 }
 .owl-dots .active span {
-  background-color: #faf5b2!important;
+  /*background-color: #faf5b2!important;*/
+  background-color: #D4177F!important;
 }
 .owl-dots .owl-dot span {
   background-color: #fff;
@@ -607,8 +613,10 @@ nav a::before {
   outline: none;
 }
 #contact button:hover {
-  background-color: #faf5b2;
-  border-color: #faf5b2;
+  /*background-color: #faf5b2;*/
+  /*border-color: #faf5b2;*/
+  background-color: #D4177F;
+  border-color: #D4177F;
   color: #1e1e1e;
 }
 
@@ -653,7 +661,8 @@ nav a::before {
     color: #111;
     display: inline-block;
     text-align: center;
-    background-color: #faf5b2;
+    /*background-color: #faf5b2;*/
+    background-color: #D4177F;
   }
   nav {
     top: 0vh;
