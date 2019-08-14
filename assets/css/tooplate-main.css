@@ -342,12 +342,14 @@ nav a::before {
 #image-slider ul li:nth-child(1) {
   background-image: url(../images/computer.jpg);
 }
+/*
 #image-slider ul li:nth-child(2) {
   background-image: url(../images/map.jpg);
 }
 #image-slider ul li:nth-child(3) {
   background-image: url(../images/abstract.jpeg);
 }
+*/
 #image-slider ul li.active-img{
   left: 0;
 }
