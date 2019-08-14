@@ -1,4 +1,5 @@
 /cloud/project/_site.yml="612BDA99"
+/cloud/project/contact.html="30EDAEEE"
 /cloud/project/css/_bootstrap.css="D98B24DA"
 /cloud/project/css/animate.css="ECE87368"
 /cloud/project/css/aos.css="D0A64D84"
@@ -24,3 +25,7 @@
 /cloud/project/portfolio-single.html="8080184"
 /cloud/project/portfolio.html="57BBD25D"
 /cloud/project/prepros-6.config="D95DE86B"
+/cloud/project/scss/_buttons.scss="2CB1215B"
+/cloud/project/scss/_navbar.scss="E865560E"
+/cloud/project/scss/mixins/_nav-divider.scss="5A335E4B"
+/cloud/project/scss/utilities/_background.scss="D89E3032"
