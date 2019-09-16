@@ -2394,6 +2394,8 @@ textarea.form-control {
   }
 }
 
+.button1 {background-color: #4CAF50;} /* Green */
+
 .btn:hover {
   color: #75A102;
   text-decoration: none;
@@ -2446,6 +2448,7 @@ fieldset:disabled a.btn {
 .show > .btn-primary.dropdown-toggle:focus {
   box-shadow: 0 0 0 0.2rem rgba(38, 143, 255, 0.5);
 }
+
 /*
 .btn-secondary {
   color: #fff;
