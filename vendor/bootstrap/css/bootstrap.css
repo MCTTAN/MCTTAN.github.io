@@ -2446,7 +2446,7 @@ fieldset:disabled a.btn {
 .show > .btn-primary.dropdown-toggle:focus {
   box-shadow: 0 0 0 0.2rem rgba(38, 143, 255, 0.5);
 }
-
+/*
 .btn-secondary {
   color: #fff;
   background-color: #6c757d;
@@ -2984,6 +2984,7 @@ fieldset:disabled a.btn {
 .btn-block + .btn-block {
   margin-top: 0.5rem;
 }
+*/
 
 input[type="submit"].btn-block,
 input[type="reset"].btn-block,
