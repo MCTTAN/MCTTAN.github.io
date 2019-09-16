@@ -2395,7 +2395,7 @@ textarea.form-control {
 }
 
 .btn:hover {
-  color: #212529;
+  color: #75A102;
   text-decoration: none;
 }
 
@@ -2431,15 +2431,15 @@ fieldset:disabled a.btn {
 
 .btn-primary.disabled, .btn-primary:disabled {
   color: #fff;
-  background-color: #007bff;
-  border-color: #007bff;
+  background-color: #75A102;
+  border-color: #75A102;
 }
 
 .btn-primary:not(:disabled):not(.disabled):active, .btn-primary:not(:disabled):not(.disabled).active,
 .show > .btn-primary.dropdown-toggle {
   color: #fff;
-  background-color: #0062cc;
-  border-color: #005cbf;
+  background-color: #75A102;
+  border-color: #75A102;
 }
 
 .btn-primary:not(:disabled):not(.disabled):active:focus, .btn-primary:not(:disabled):not(.disabled).active:focus,
