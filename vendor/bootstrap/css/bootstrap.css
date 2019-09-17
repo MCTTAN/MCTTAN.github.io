@@ -57,6 +57,10 @@ body {
   background-color: #005258;
 }
 
+.site-footer {
+  background: #75A102;
+}
+
 [tabindex="-1"]:focus {
   outline: 0 !important;
 }
