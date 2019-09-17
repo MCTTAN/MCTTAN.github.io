@@ -4976,17 +4976,17 @@ a.badge:hover, a.badge:focus {
 
 .badge-primary {
   color: #fff;
-  background-color: #586634;
+  background-color: #00798C;
 }
 
 a.badge-primary:hover, a.badge-primary:focus {
   color: #fff;
-  background-color: #586634;
+  background-color: #00798C;
 }
 
 a.badge-primary:focus, a.badge-primary.focus {
   outline: 0;
-  box-shadow: 0 0 0 0.2rem rgba(0, 34.5, 40, 20.4);
+  box-shadow: 0 0 0 0.2rem rgba(0, 0, 69, 76.1);
 }
 
 .badge-secondary {
