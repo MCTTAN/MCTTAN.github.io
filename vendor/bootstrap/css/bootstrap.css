@@ -46,8 +46,10 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   display: block;
 }
 
-header ul {
-    margin-bottom: 0;
+ul {
+  padding: 15px;
+  list-style: none;
+  margin: 0;
 }
 
 body {
