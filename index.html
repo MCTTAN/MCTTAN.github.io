@@ -3,39 +3,59 @@
 
 <head>
   
-  <link href="https://fonts.googleapis.com/css?family=Work+Sans:100,200,300,400,500,600,700,800,900&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Merriweather:300,300i,400,400i,700,700i,900,900i|Work+Sans:100,200,300,400,500,600,700,800,900&display=swap" rel="stylesheet">
   
   <style>
   
     title{
       font-family: 'Work Sans', sans-serif;
+      letter-spacing: 2.5px;
+      word-spacing: 2.5px;
     }
     
     h1, h2, h3, h5 {
       font-family: 'Work Sans', sans-serif;
+      letter-spacing: 2.5px;
+      word-spacing: 2.5px;
     }
     
     h2 {
       font-style: bold;
+      letter-spacing: 2.5px;
+      word-spacing: 2.5px;
     }
     
     h4 {
       font-family: 'Work Sans', sans-serif;
+      letter-spacing: 2.5px;
+      word-spacing: 2.5px;
       font-size: 20px;
     }
     
     h6 {
       font-family: 'Work Sans', sans-serif;
+      letter-spacing: 2.5px;
+      word-spacing: 2.5px;
       font-size: 80px;
     }
     
-    h7{
+    h7 {
       font-family: 'Work Sans', sans-serif;
+      letter-spacing: 2.5px;
+      word-spacing: 2.5px;
       font-size: 40px;
+    }
+    
+    h8 {
+      font-family: 'Merriweather', serif;
+      letter-spacing: 5px;
+      word-spacing: 5px;
     }
     
     p {
       font-family: 'Work Sans', sans-serif;
+      letter-spacing: 1px;
+      word-spacing: 1px;
     }
     
   </style>
@@ -64,7 +84,7 @@
 
   <!-- Navigation -->
   <nav class="navbar fixed-top navbar-expand-lg navbar-dark fixed-top" style="background-color: #75A102;">
-    <div class="container">
+    <div class="container" style="letter-spacing: 2.5px; word-spacing: 2.5px;">
       <a class="navbar-brand" href="index.html">M.C. TAN</a>
       <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -72,16 +92,16 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="about.html">About</a>
+            <a class="nav-link" href="about.html" style="letter-spacing: 1px; word-spacing: 1px;">About</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="services.html">Services</a>
+            <a class="nav-link" href="services.html" style="letter-spacing: 1px; word-spacing: 1px;">Services</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contact.html">Contact</a>
+            <a class="nav-link" href="contact.html" style="letter-spacing: 1px; word-spacing: 1px;">Contact</a>
           </li>
           <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownPortfolio" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownPortfolio" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="letter-spacing: 1px; word-spacing: 1px;">
               Portfolio
             </a>
             <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownPortfolio">
@@ -93,7 +113,7 @@
             </div>
           </li>
           <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownBlog" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownBlog" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="letter-spacing: 1px; word-spacing: 1px;">
               Blog
             </a>
             <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownBlog">
@@ -102,17 +122,6 @@
               <a class="dropdown-item" href="blog-post.html">Blog Post</a>
             </div>
           </li>
-          <!--
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownBlog" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-              Other Pages
-            </a>
-            <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownBlog">
-              <a class="dropdown-item" href="full-width.html">Full Width Page</a>
-              <a class="dropdown-item" href="sidebar.html">Sidebar Page</a>
-            </div>
-          </li>
-          -->
         </ul>
       </div>
     </div>
@@ -217,7 +226,9 @@
     
     <!-- About Me -->
     <div style="text-align:center">
+      
       <h2 style="color: #fff">cout << "Hello, World!";</h2>
+      <!--<span class="blinking"></span>-->
     </div>
     
     <br>
@@ -229,6 +240,10 @@
       <br>
       
       <p style="color: white">On the surface, art and science seem like oil and water. But these seemingly polar opposite fields actually complement each other. They convey abstract ideas in concrete ways, challenge people to see things in different angles, and lead to the creation of new knowledge.</p>
+      
+      <h8 style="font-size: 60px; font-style: italic; font-weight: 700; color: white">My Journey</h8>
+      
+      <p style="font-family: 'Merriweather', serif;"></p>
     
     </div>
     
@@ -700,10 +715,10 @@ style=" fill:#000000;"><g transform=""><g fill="none" fill-rule="nonzero" stroke
           </h4>
           <div class="card-body">
             <p class="card-text" style="color: #586634">The original website was designed before mobile usage was prevalent. Thus, the site needed to be updated so that users can find information on both web and mobile platforms.</p>
-            <span class="badge badge-primary">Web App</span>
+            <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">web app</span>
           </div>
           <div class="card-footer" style="text-align:center">
-            <a href="#" class="btn btn-primary">Learn More</a>
+            <a href="#" class="btn btn-primary" style="letter-spacing: 1px; word-spacing: 1px;">Learn More</a>
           </div>
         </div>
       </div>
@@ -722,16 +737,16 @@ style=" fill:#000000;"><g transform=""><g fill="none" fill-rule="nonzero" stroke
           </h4>
           <div class="card-body">
             <p class="card-text" style="color: #586634">This application concept makes donating a more fulfilling and social experience through connecting its users to the people whose lives they've impacted. It uses social networking, data visualization, and mobile payments to bring communities and charities closer together. Collaboration was done with other undergraduates who were inexperienced in web development and had diverse coding backgrounds.</p>
-            <span class="badge badge-primary">Web App</span>
-            <span class="badge badge-primary">Bootstrap</span>
-            <span class="badge badge-primary">RStudio</span>
-            <span class="badge badge-primary">Google</span>
-            <span class="badge badge-primary">Facebook</span>
-            <span class="badge badge-primary">PayPal</span>
-            <span class="badge badge-primary">GlobalGiving</span>
+            <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">web app</span>
+            <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">Bootstrap</span>
+            <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">RStudio</span>
+            <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">Google</span>
+            <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">Facebook</span>
+            <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">PayPal</span>
+            <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">GlobalGiving</span>
           </div>
           <div class="card-footer" style="text-align:center">
-            <a href="#" class="btn btn-primary">Learn More</a>
+            <a href="#" class="btn btn-primary" style="letter-spacing: 1px; word-spacing: 1px;">Learn More</a>
           </div>
         </div>
       </div>
@@ -750,14 +765,14 @@ style=" fill:#000000;"><g transform=""><g fill="none" fill-rule="nonzero" stroke
           </h4>
           <div class="card-body">
             <p class="card-text" style="color: #586634">This dashboard concept turns police and crime data into actions and results.</p>
-            <span class="badge badge-primary">Web App</span>
-            <span class="badge badge-primary">Dashboard</span>
-            <span class="badge badge-primary">Bootstrap</span>
-            <span class="badge badge-primary">RStudio</span>
-            <span class="badge badge-primary">Google</span>
+            <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">web app</span>
+            <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">dashboard</span>
+            <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">Bootstrap</span>
+            <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">RStudio</span>
+            <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">Google</span>
           </div>
           <div class="card-footer" style="text-align:center">
-            <a href="#" class="btn btn-primary">Learn More</a>
+            <a href="#" class="btn btn-primary" style="letter-spacing: 1px; word-spacing: 1px;">Learn More</a>
           </div>
         </div>
       </div>
@@ -776,10 +791,10 @@ style=" fill:#000000;"><g transform=""><g fill="none" fill-rule="nonzero" stroke
           </h4>
           <div class="card-body">
             <p class="card-text" style="color: #586634">An artistic depiction of technology.</p>
-            <span class="badge badge-primary">Artwork</span>
+            <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">artwork</span>
           </div>
           <div class="card-footer" style="text-align:center">
-            <a href="#" class="btn btn-primary">Learn More</a>
+            <a href="#" class="btn btn-primary" style="letter-spacing: 1px; word-spacing: 1px;">Learn More</a>
           </div>
         </div>
       </div>
@@ -798,10 +813,10 @@ style=" fill:#000000;"><g transform=""><g fill="none" fill-rule="nonzero" stroke
           </h4>
           <div class="card-body">
             <p class="card-text" style="color: #586634">This mobile app aims to pair conversation partners.</p>
-            <span class="badge badge-primary">Mobile App</span>
+            <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">mobile app</span>
           </div>
           <div class="card-footer" style="text-align:center">
-            <a href="#" class="btn btn-primary">Learn More</a>
+            <a href="#" class="btn btn-primary" style="letter-spacing: 1px; word-spacing: 1px;">Learn More</a>
           </div>
         </div>
       </div>
@@ -820,12 +835,12 @@ style=" fill:#000000;"><g transform=""><g fill="none" fill-rule="nonzero" stroke
           </h4>
           <div class="card-body">
             <p class="card-text" style="color: #586634">Teach children to learn their mother languages on their own.</p>
-            <span class="badge badge-primary">Web App</span>
-            <span class="badge badge-primary">Google Speech-To-Text API</span>
-            <span class="badge badge-primary">Google Text-To-Speech API</span>
+            <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">web app</span>
+            <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">Google Speech-To-Text API</span>
+            <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">Google Text-To-Speech API</span>
           </div>
           <div class="card-footer" style="text-align:center">
-            <a href="#" class="btn btn-primary">Learn More</a>
+            <a href="#" class="btn btn-primary" style="letter-spacing: 1px; word-spacing: 1px;">Learn More</a>
           </div>
         </div>
       </div>
@@ -844,11 +859,11 @@ style=" fill:#000000;"><g transform=""><g fill="none" fill-rule="nonzero" stroke
           </h4>
           <div class="card-body">
             <p class="card-text" style="color: #586634">This mobile app aims to pair conversation partners.</p>
-            <span class="badge badge-primary">Computer Application</span>
-            <span class="badge badge-primary">ArcGIS</span>
+            <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">computer application</span>
+            <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">ArcGIS</span>
           </div>
           <div class="card-footer" style="text-align:center">
-            <a href="#" class="btn btn-primary">Learn More</a>
+            <a href="#" class="btn btn-primary" style="letter-spacing: 1px; word-spacing: 1px;">Learn More</a>
           </div>
         </div>
       </div>
@@ -867,10 +882,10 @@ style=" fill:#000000;"><g transform=""><g fill="none" fill-rule="nonzero" stroke
           </h4>
           <div class="card-body">
             <p class="card-text" style="color: #586634">A training app for surgeons.</p>
-            <span class="badge badge-primary">Computer Application</span>
+            <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">computer application</span>
           </div>
           <div class="card-footer" style="text-align:center">
-            <a href="#" class="btn btn-primary">Learn More</a>
+            <a href="#" class="btn btn-primary" style="letter-spacing: 1px; word-spacing: 1px;">Learn More</a>
           </div>
         </div>
       </div>
@@ -889,10 +904,10 @@ style=" fill:#000000;"><g transform=""><g fill="none" fill-rule="nonzero" stroke
           </h4>
           <div class="card-body">
             <p class="card-text" style="color: #586634">Inspired by AR military maps.</p>
-            <span class="badge badge-primary">Computer Application</span>
+            <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">computer application</span>
           </div>
           <div class="card-footer" style="text-align:center">
-            <a href="#" class="btn btn-primary">Learn More</a>
+            <a href="#" class="btn btn-primary" style="letter-spacing: 1px; word-spacing: 1px;">Learn More</a>
           </div>
         </div>
       </div>
@@ -911,32 +926,10 @@ style=" fill:#000000;"><g transform=""><g fill="none" fill-rule="nonzero" stroke
           </h4>
           <div class="card-body">
             <p class="card-text" style="color: #586634">Inspired by AR military maps.</p>
-            <span class="badge badge-primary">Computer Application</span>
+            <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">computer application</span>
           </div>
           <div class="card-footer" style="text-align:center">
-            <a href="#" class="btn btn-primary">Learn More</a>
-          </div>
-        </div>
-      </div>
-      
-      <div class="col-lg-4 mb-4">
-        <div class="card h-100">
-          <h4 class="card-header">
-            <div style="text-align:center">
-              <br>
-              <a href="https://github.com/MCTTAN/MCTTAN.github.io/blob/master/pnp-rdc.html" style="color: #75A102">Appy</a>
-              <br>
-              <br>
-              <h6 style="color: #586634">BigRed Hacks</h6>
-              <h6 style="color: #586634">March 2017</h6>
-            </div>
-          </h4>
-          <div class="card-body">
-            <p class="card-text" style="color: #586634">A mobile app aimed to connect therapists with patients.</p>
-            <span class="badge badge-primary">Mobile App</span>
-          </div>
-          <div class="card-footer" style="text-align:center">
-            <a href="#" class="btn btn-primary">Learn More</a>
+            <a href="#" class="btn btn-primary" style="letter-spacing: 1px; word-spacing: 1px;">Learn More</a>
           </div>
         </div>
       </div>
@@ -955,24 +948,38 @@ style=" fill:#000000;"><g transform=""><g fill="none" fill-rule="nonzero" stroke
           </h4>
           <div class="card-body">
             <p class="card-text" style="color: #586634">Makes webpages easier to read.</p>
-            <span class="badge badge-primary">Chrome Extension</span>
+            <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">Chrome extension</span>
           </div>
           <div class="card-footer" style="text-align:center">
-            <a href="#" class="btn btn-primary">Learn More</a>
+            <a href="#" class="btn btn-primary" style="letter-spacing: 1px; word-spacing: 1px;">Learn More</a>
+          </div>
+        </div>
+      </div>
+      
+      <div class="col-lg-4 mb-4">
+        <div class="card h-100">
+          <h4 class="card-header">
+            <div style="text-align:center">
+              <br>
+              <a href="https://github.com/MCTTAN/MCTTAN.github.io/blob/master/pnp-rdc.html" style="color: #75A102">Appy</a>
+              <br>
+              <br>
+              <h6 style="color: #586634">BigRed Hacks</h6>
+              <h6 style="color: #586634">March 2017</h6>
+            </div>
+          </h4>
+          <div class="card-body">
+            <p class="card-text" style="color: #586634">A mobile app aimed to connect therapists with patients.</p>
+            <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">mobile app</span>
+          </div>
+          <div class="card-footer" style="text-align:center">
+            <a href="#" class="btn btn-primary" style="letter-spacing: 1px; word-spacing: 1px;">Learn More</a>
           </div>
         </div>
       </div>
       
     </div>
     <!-- /.row -->
-    
-      
-     
-      
-     
-      
-      
-    
     
     <br>
     <br>
@@ -1003,10 +1010,12 @@ style=" fill:#000000;"><g transform=""><g fill="none" fill-rule="nonzero" stroke
             </h4>
             <div class="card-body">
               <p class="card-text" style="color: #586634"></p>
-              <span class="badge badge-primary">NGO</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">NGO</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">nonprofit</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">organization</span>
             </div>
             <div class="card-footer" style="text-align:center">
-              <a href="#" class="btn btn-primary">Learn More</a>
+              <a href="#" class="btn btn-primary" style="letter-spacing: 1px; word-spacing: 1px;">Learn More</a>
             </div>
           </div>
         </div>
@@ -1026,10 +1035,221 @@ style=" fill:#000000;"><g transform=""><g fill="none" fill-rule="nonzero" stroke
             </h4>
             <div class="card-body">
               <p class="card-text" style="color: #586634"></p>
-              <span class="badge badge-primary">Business</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">business</span>
             </div>
             <div class="card-footer" style="text-align:center">
-              <a href="#" class="btn btn-primary">Learn More</a>
+              <a href="#" class="btn btn-primary" style="letter-spacing: 1px; word-spacing: 1px;">Learn More</a>
+            </div>
+          </div>
+        </div>
+        
+    </div>
+    
+    <!-- /.row -->
+    
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    
+    <!-- Communities Section -->
+    <div style="text-align:center">
+      <h2 style="color: #fff">COMMUNITIES</h2>
+    </div>
+    
+    <br>
+    
+    <div class="row">
+      
+      <div class="col-lg-4 mb-4">
+          <div class="card h-100">
+            <h4 class="card-header">
+              <div style="text-align:center">
+                <br>
+                <a href="https://github.com/MCTTAN/MCTTAN.github.io/blob/master/pnp-rdc.html" style="color: #75A102">Data Science Society</a>
+                <br>
+                <br>
+                <h6 style="color: #586634">Member</h6>
+                <h6 style="color: #586634">September 2019 - Present</h6>
+              </div>
+            </h4>
+            <div class="card-body">
+              <p class="card-text" style="color: #586634"></p>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">research</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">community</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">online</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">hackathon</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">scientists</span>
+            </div>
+            <div class="card-footer" style="text-align:center">
+              <a href="#" class="btn btn-primary" style="letter-spacing: 1px; word-spacing: 1px;">Learn More</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="col-lg-4 mb-4">
+          <div class="card h-100">
+            <h4 class="card-header">
+              <div style="text-align:center">
+                <br>
+                <a href="https://github.com/MCTTAN/MCTTAN.github.io/blob/master/pnp-rdc.html" style="color: #75A102">Make A Mark</a>
+                <br>
+                <br>
+                <h6 style="color: #586634">Participant</h6>
+                <h6 style="color: #586634">September 2019</h6>
+              </div>
+            </h4>
+            <div class="card-body">
+              <p class="card-text" style="color: #586634"></p>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">community</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">hackathon</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">social good</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">volunteers</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">creators</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">artists</span>
+            </div>
+            <div class="card-footer" style="text-align:center">
+              <a href="#" class="btn btn-primary" style="letter-spacing: 1px; word-spacing: 1px;">Learn More</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="col-lg-4 mb-4">
+          <div class="card h-100">
+            <h4 class="card-header">
+              <div style="text-align:center">
+                <br>
+                <a href="https://github.com/MCTTAN/MCTTAN.github.io/blob/master/pnp-rdc.html" style="color: #75A102">Police Sci + Tech</a>
+                <br>
+                <br>
+                <h6 style="color: #586634">Creator</h6>
+                <h6 style="color: #586634">August 2019 - Present</h6>
+              </div>
+            </h4>
+            <div class="card-body">
+              <p class="card-text" style="color: #586634"></p>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">community</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">online</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">hackathon</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">social good</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">public safety</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">law enforcement</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">criminal justice</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">volunteers</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">developers</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">coders</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">programmers</span>
+            </div>
+            <div class="card-footer" style="text-align:center">
+              <a href="#" class="btn btn-primary" style="letter-spacing: 1px; word-spacing: 1px;">Learn More</a>
+            </div>
+          </div>
+        </div>
+      
+      <div class="col-lg-4 mb-4">
+          <div class="card h-100">
+            <h4 class="card-header">
+              <div style="text-align:center">
+                <br>
+                <a href="https://github.com/MCTTAN/MCTTAN.github.io/blob/master/pnp-rdc.html" style="color: #75A102">Police Rewired</a>
+                <br>
+                <br>
+                <h6 style="color: #586634">Member</h6>
+                <h6 style="color: #586634">May 2019 - Present</h6>
+              </div>
+            </h4>
+            <div class="card-body">
+              <p class="card-text" style="color: #586634"></p>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">community</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">online</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">hackathon</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">social good</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">public safety</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">law enforcement</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">criminal justice</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">volunteers</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">developers</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">coders</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">programmers</span>
+            </div>
+            <div class="card-footer" style="text-align:center">
+              <a href="#" class="btn btn-primary" style="letter-spacing: 1px; word-spacing: 1px;">Learn More</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="col-lg-4 mb-4">
+          <div class="card h-100">
+            <h4 class="card-header">
+              <div style="text-align:center">
+                <br>
+                <a href="https://github.com/MCTTAN/MCTTAN.github.io/blob/master/pnp-rdc.html" style="color: #75A102">Letters To A Pre-Scientist (LPS)</a>
+                <br>
+                <br>
+                <h6 style="color: #586634">Participant</h6>
+                <h6 style="color: #586634">May 2018 - Present</h6>
+              </div>
+            </h4>
+            <div class="card-body">
+              <p class="card-text" style="color: #586634"></p>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">community</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">career exploration</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">education</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">elementary</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">college</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">university</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">volunteers</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">scientists</span>
+            </div>
+            <div class="card-footer" style="text-align:center">
+              <a href="#" class="btn btn-primary" style="letter-spacing: 1px; word-spacing: 1px;">Learn More</a>
+            </div>
+          </div>
+        </div>
+      
+      <div class="col-lg-4 mb-4">
+          <div class="card h-100">
+            <h4 class="card-header">
+              <div style="text-align:center">
+                <br>
+                <a href="https://github.com/MCTTAN/MCTTAN.github.io/blob/master/pnp-rdc.html" style="color: #75A102">Materials Research Society (MRS)</a>
+                <br>
+                <br>
+                <h6 style="color: #586634">Student Member</h6>
+                <h6 style="color: #586634">2016 - Present</h6>
+              </div>
+            </h4>
+            <div class="card-body">
+              <p class="card-text" style="color: #586634"></p>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">research</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">community</span>
+            </div>
+            <div class="card-footer" style="text-align:center">
+              <a href="#" class="btn btn-primary" style="letter-spacing: 1px; word-spacing: 1px;">Learn More</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="col-lg-4 mb-4">
+          <div class="card h-100">
+            <h4 class="card-header">
+              <div style="text-align:center">
+                <br>
+                <a href="https://github.com/MCTTAN/MCTTAN.github.io/blob/master/pnp-rdc.html" style="color: #75A102">American Physical Society</a>
+                <br>
+                <br>
+                <h6 style="color: #586634">Student Member</h6>
+                <h6 style="color: #586634">2015 - Present</h6>
+              </div>
+            </h4>
+            <div class="card-body">
+              <p class="card-text" style="color: #586634"></p>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">research</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">community</span>
+            </div>
+            <div class="card-footer" style="text-align:center">
+              <a href="#" class="btn btn-primary" style="letter-spacing: 1px; word-spacing: 1px;">Learn More</a>
             </div>
           </div>
         </div>
@@ -1044,7 +1264,6 @@ style=" fill:#000000;"><g transform=""><g fill="none" fill-rule="nonzero" stroke
     <br>
     <br>
     
-    <!-- FOOTER MENU -->
     <div class="row mb-4">
       <div class="col-md-8">
         <p></p>
@@ -1055,13 +1274,14 @@ style=" fill:#000000;"><g transform=""><g fill="none" fill-rule="nonzero" stroke
     </div>
 
   </div>
-  <!-- /.container -->
   
 <!-- Footer -->
-<footer class="page-footer font-small cyan darken-3">
+<footer class="page-footer font-small unique-color-dark">
 
   <!-- Footer Elements -->
-  <div class="container">
+  <div style="background-color: #75A102">
+    
+  <div class="container" style="text-align: center">
 
     <!-- Grid row-->
     <div class="row">
@@ -1071,10 +1291,22 @@ style=" fill:#000000;"><g transform=""><g fill="none" fill-rule="nonzero" stroke
         <div class="mb-5 flex-center">
           
           <!-- LinkedIn -->
-          <i class="fab fa-linkedin-in fa-lg white-text fa-2x" style="color: white"></i>
+          <a href="https://www.linkedin.com/in/mariechantaltan/"><i class="fab fa-linkedin-in fa-lg white-text fa-2x" style="color: white"></i></a>
+          
+          &nbsp;
+          &nbsp;
+          &nbsp;
+          &nbsp;
+          &nbsp;
           
           <!-- GitHub -->
-          <i class="fab fa-github-alt fa-lg white-text fa-2x" style="color: white"></i>
+          <a href="https://github.com/mcttan"><i class="fab fa-github-alt fa-lg white-text fa-2x" style="color: white"></i></a>
+          
+          &nbsp;
+          &nbsp;
+          &nbsp;
+          &nbsp;
+          &nbsp;
           
           <!-- E-Mail -->
           <i class="fas fa-envelope fa-lg white-text fa-2x" style="color: white"></i>
@@ -1086,6 +1318,7 @@ style=" fill:#000000;"><g transform=""><g fill="none" fill-rule="nonzero" stroke
     </div>
     <!-- Grid row-->
 
+  </div>
   </div>
   <!-- Footer Elements -->
 
