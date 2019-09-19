@@ -63,6 +63,37 @@ body {
   background-color: #005258;
 }
 
+.custom-class {
+background: linear-gradient(60deg, #75a102, #f09464, #febb5e, #55babf, #ff403f, #9999cc, #c0ae2c, #005258);
+background-size: 1600% 1600%;
+
+-webkit-animation: MCTTAN-gradient-animation 59s ease infinite;
+-moz-animation: MCTTAN-gradient-animation 59s ease infinite;
+-o-animation: MCTTAN-gradient-animation 59s ease infinite;
+animation: MCTTAN-gradient-animation 59s ease infinite;
+}
+
+@-webkit-keyframes MCTTAN-gradient-animation {
+    0%{background-position:53% 0%}
+    50%{background-position:48% 100%}
+    100%{background-position:53% 0%}
+}
+@-moz-keyframes MCTTAN-gradient-animation {
+    0%{background-position:53% 0%}
+    50%{background-position:48% 100%}
+    100%{background-position:53% 0%}
+}
+@-o-keyframes MCTTAN-gradient-animation {
+    0%{background-position:53% 0%}
+    50%{background-position:48% 100%}
+    100%{background-position:53% 0%}
+}
+@keyframes MCTTAN-gradient-animation {
+    0%{background-position:53% 0%}
+    50%{background-position:48% 100%}
+    100%{background-position:53% 0%}
+}
+
 [tabindex="-1"]:focus {
   outline: 0 !important;
 }
