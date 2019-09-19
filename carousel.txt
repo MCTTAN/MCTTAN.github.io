@@ -42,3 +42,82 @@
       </a>-->
     </div>
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div style="text-align:center; background-color: #FEBB5E">
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      
+      <h8 style="font-size: 60px; font-style: italic; font-weight: 700; color: white">My Journey</h8>
+      
+      <p style="font-family: 'Merriweather', serif;"></p>
+      
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+    
+    </div>
+
+    <div style="text-align:center; background-color: #55BABF;">
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      
+      <h8 style="font-size: 60px; font-style: italic; font-weight: 700; color: white">My Journey</h8>
+      
+      <p style="font-family: 'Merriweather', serif;"></p>
+      
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      
+    </div>
