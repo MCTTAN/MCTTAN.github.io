@@ -10,7 +10,7 @@
   <style>
   
   body {
-    background-image: url("media/Backgrounds/b2.png");
+    background-image: url("media/backgrounds/b2.png");
     height: 100%;
     background-position: top;
     background-repeat: repeat;
@@ -54,7 +54,7 @@
               -moz-animation: AnimationName 59s ease infinite;
               animation: AnimationName 59s ease infinite;"
     >
-    <div class="container-xl">
+    <div class="container-xl" style="letter-spacing: .2rem;">
       <a class="navbar-brand" href="#">MARIE CHANTAL T. TAN</a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarsExample07XL" aria-controls="navbarsExample07XL" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -66,16 +66,16 @@
       &nbsp;
       &nbsp;
 
-      <div class="collapse navbar-collapse" id="navbarsExample07XL">
+      <div class="collapse navbar-collapse" id="navbarsExample07XL" style="letter-spacing: .2rem;">
         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="#">Home</a>
+            <a class="nav-link" aria-current="page" href="#">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="purpose.html">purpose</a>
+            <a class="nav-link" href="purpose.html">Purpose</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="portfolio.html">Portfolio</a>
+            <a class="nav-link active" href="portfolio.html">Portfolio</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="https://drive.google.com/file/d/1OLQcCwyw87UI_jiXxFeo-828razrlQhX/view?usp=sharing">Resume</a>
@@ -102,37 +102,37 @@
 
   <div class="row row-cols-1 row-cols-md-3 gx-4 text-center" style="display: flex; justify-content: center;">
     
-    <div class="col themed-grid-col" style="background-image: url(media/Backgrounds/swatch-13.png); background-size: cover; width: 200px; height: 200px;" onclick="location.href='womens-law-center-maryland.html';" style="cursor: pointer;">
+    <div class="col themed-grid-col" style="background-image: url(media/backgrounds/swatch-13.png); background-size: cover; width: 200px; height: 200px;" onclick="location.href='womens-law-center-maryland.html';" style="cursor: pointer;">
       
       Womens Law Center Maryland (WLCMD) (NGO)
 
     </div>
     
-    <div class="col themed-grid-col" style="background-image: url(media/Backgrounds/swatch-14.png); background-size: cover; width: 200px; height: 200px;" onclick="location.href='todays-home-care.html';" style="cursor: pointer;">
+    <div class="col themed-grid-col" style="background-image: url(media/backgrounds/swatch-14.png); background-size: cover; width: 200px; height: 200px;" onclick="location.href='todays-home-care.html';" style="cursor: pointer;">
       
       Today's Home Care (LLC)
       
     </div>
     
-    <div class="col themed-grid-col" style="background-image: url(media/Backgrounds/swatch-15.png); background-size: cover; width: 200px; height: 200px;" onclick="location.href='show-your-worth.html';" style="cursor: pointer;">
+    <div class="col themed-grid-col" style="background-image: url(media/backgrounds/swatch-15.png); background-size: cover; width: 200px; height: 200px;" onclick="location.href='show-your-worth.html';" style="cursor: pointer;">
       
       Show Your Worth (NPO)
     
     </div>
     
-    <div class="col themed-grid-col" style="background-image: url(media/Backgrounds/swatch-16.png); background-size: cover; width: 200px; height: 200px;" onclick="location.href='lorn-abel-personalized-gifts.html';" style="cursor: pointer;">
+    <div class="col themed-grid-col" style="background-image: url(media/backgrounds/swatch-16.png); background-size: cover; width: 200px; height: 200px;" onclick="location.href='lorn-abel-personalized-gifts.html';" style="cursor: pointer;">
       
       LornAbel Personalized Gifts
     
     </div>
     
-    <div class="col themed-grid-col" style="background-image: url(media/Backgrounds/swatch-17.png); background-size: cover; width: 200px; height: 200px;" onclick="location.href='institute-of-notre-dame-alumnae-association.html';" style="cursor: pointer;">
+    <div class="col themed-grid-col" style="background-image: url(media/backgrounds/swatch-17.png); background-size: cover; width: 200px; height: 200px;" onclick="location.href='institute-of-notre-dame-alumnae-association.html';" style="cursor: pointer;">
       
       Institute of Notre Dame Alumnae Association (NGO)
     
     </div>
     
-    <div class="col themed-grid-col" style="background-image: url(media/Backgrounds/swatch-18.png); background-size: cover; width: 200px; height: 200px;" onclick="location.href='todays-home-care/handbooks.html';" style="cursor: pointer;">
+    <div class="col themed-grid-col" style="background-image: url(media/backgrounds/swatch-18.png); background-size: cover; width: 200px; height: 200px;" onclick="location.href='todays-home-care/handbooks.html';" style="cursor: pointer;">
     
       Cards
     
@@ -144,37 +144,37 @@
   
   <div class="row row-cols-1 row-cols-md-3 gx-4 text-center" style="display: flex; justify-content: center;">
     
-    <div class="col themed-grid-col" style="background-image: url(media/Backgrounds/swatch-7.png); background-size: cover; width: 200px; height: 200px;" onclick="location.href='todays-home-care/handbooks.html';" style="cursor: pointer;">
+    <div class="col themed-grid-col" style="background-image: url(media/backgrounds/swatch-7.png); background-size: cover; width: 200px; height: 200px;" onclick="location.href='todays-home-care/handbooks.html';" style="cursor: pointer;">
       
       Handbooks
 
     </div>
     
-    <div class="col themed-grid-col" style="background-image: url(media/Backgrounds/swatch-8.png); background-size: cover; width: 200px; height: 200px;" onclick="location.href='todays-home-care/handbooks.html';" style="cursor: pointer;">
+    <div class="col themed-grid-col" style="background-image: url(media/backgrounds/swatch-8.png); background-size: cover; width: 200px; height: 200px;" onclick="location.href='todays-home-care/handbooks.html';" style="cursor: pointer;">
       
       E-mails
       
     </div>
     
-    <div class="col themed-grid-col" style="background-image: url(media/Backgrounds/swatch-9.png); background-size: cover; width: 200px; height: 200px;" onclick="location.href='todays-home-care/handbooks.html';" style="cursor: pointer;">
+    <div class="col themed-grid-col" style="background-image: url(media/backgrounds/swatch-9.png); background-size: cover; width: 200px; height: 200px;" onclick="location.href='todays-home-care/handbooks.html';" style="cursor: pointer;">
       
       Social Media
     
     </div>
     
-    <div class="col themed-grid-col" style="background-image: url(media/Backgrounds/swatch-10.png); background-size: cover; width: 200px; height: 200px;" onclick="location.href='todays-home-care/handbooks.html';" style="cursor: pointer;">
+    <div class="col themed-grid-col" style="background-image: url(media/backgrounds/swatch-10.png); background-size: cover; width: 200px; height: 200px;" onclick="location.href='todays-home-care/handbooks.html';" style="cursor: pointer;">
       
       Brochures
     
     </div>
     
-    <div class="col themed-grid-col" style="background-image: url(media/Backgrounds/swatch-11.png); background-size: cover; width: 200px; height: 200px;" onclick="location.href='todays-home-care/handbooks.html';" style="cursor: pointer;">
+    <div class="col themed-grid-col" style="background-image: url(media/backgrounds/swatch-11.png); background-size: cover; width: 200px; height: 200px;" onclick="location.href='todays-home-care/handbooks.html';" style="cursor: pointer;">
       
       Fliers
     
     </div>
     
-    <div class="col themed-grid-col" style="background-image: url(media/Backgrounds/swatch-12.png); background-size: cover; width: 200px; height: 200px;" onclick="location.href='todays-home-care/handbooks.html';" style="cursor: pointer;">
+    <div class="col themed-grid-col" style="background-image: url(media/backgrounds/swatch-12.png); background-size: cover; width: 200px; height: 200px;" onclick="location.href='todays-home-care/handbooks.html';" style="cursor: pointer;">
     
       Cards
     
@@ -186,37 +186,37 @@
   
   <div class="row row-cols-1 row-cols-md-3 gx-4 text-center" style="display: flex; justify-content: center;">
     
-    <div class="col themed-grid-col" style="background-image: url(media/Backgrounds/swatch-1.png); background-size: cover; width: 200px; height: 200px;" onclick="location.href='todays-home-care/handbooks.html';" style="cursor: pointer;">
+    <div class="col themed-grid-col" style="background-image: url(media/backgrounds/swatch-1.png); background-size: cover; width: 200px; height: 200px;" onclick="location.href='todays-home-care/handbooks.html';" style="cursor: pointer;">
       
       Handbooks
 
     </div>
     
-    <div class="col themed-grid-col" style="background-image: url(media/Backgrounds/swatch-2.png); background-size: cover; width: 200px; height: 200px;" onclick="location.href='todays-home-care/handbooks.html';" style="cursor: pointer;">
+    <div class="col themed-grid-col" style="background-image: url(media/backgrounds/swatch-2.png); background-size: cover; width: 200px; height: 200px;" onclick="location.href='todays-home-care/handbooks.html';" style="cursor: pointer;">
       
       E-mails
       
     </div>
     
-    <div class="col themed-grid-col" style="background-image: url(media/Backgrounds/swatch-3.png); background-size: cover; width: 200px; height: 200px;" onclick="location.href='todays-home-care/handbooks.html';" style="cursor: pointer;">
+    <div class="col themed-grid-col" style="background-image: url(media/backgrounds/swatch-3.png); background-size: cover; width: 200px; height: 200px;" onclick="location.href='todays-home-care/handbooks.html';" style="cursor: pointer;">
       
       Social Media
     
     </div>
     
-    <div class="col themed-grid-col" style="background-image: url(media/Backgrounds/swatch-4.png); background-size: cover; width: 200px; height: 200px;" onclick="location.href='todays-home-care/handbooks.html';" style="cursor: pointer;">
+    <div class="col themed-grid-col" style="background-image: url(media/backgrounds/swatch-4.png); background-size: cover; width: 200px; height: 200px;" onclick="location.href='todays-home-care/handbooks.html';" style="cursor: pointer;">
       
       Brochures
     
     </div>
     
-    <div class="col themed-grid-col" style="background-image: url(media/Backgrounds/swatch-5.png); background-size: cover; width: 200px; height: 200px;" onclick="location.href='todays-home-care/handbooks.html';" style="cursor: pointer;">
+    <div class="col themed-grid-col" style="background-image: url(media/backgrounds/swatch-5.png); background-size: cover; width: 200px; height: 200px;" onclick="location.href='todays-home-care/handbooks.html';" style="cursor: pointer;">
       
       Fliers
     
     </div>
     
-    <div class="col themed-grid-col" style="background-image: url(media/Backgrounds/swatch-6.png); background-size: cover; width: 200px; height: 200px;" onclick="location.href='todays-home-care/handbooks.html';" style="cursor: pointer;">
+    <div class="col themed-grid-col" style="background-image: url(media/backgrounds/swatch-6.png); background-size: cover; width: 200px; height: 200px;" onclick="location.href='todays-home-care/handbooks.html';" style="cursor: pointer;">
     
       Cards
     
