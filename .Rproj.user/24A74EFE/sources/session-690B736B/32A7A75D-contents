@@ -686,8 +686,6 @@ progress {
 
 .col {
   flex: 1 0 0%;
-  padding: 20px;
-  line-height: 20px;
 }
 
 .row-cols-auto > * {
