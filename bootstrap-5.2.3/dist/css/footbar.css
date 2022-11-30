@@ -1,0 +1,30 @@
+.footer {
+  font-family: 'Poppins', sans-serif;
+  color: black;
+  font-size: 20px !important;
+}
+
+.css-selector {
+    background: linear-gradient(270deg, #6667ab, #eee78e, #6667ab, #f7cfe1, #6667ab, #fdb2a8, #6667ab, #bed390);
+    background-size: 2000% 2000%;
+
+    -webkit-animation: AnimationName 60s ease infinite;
+    -moz-animation: AnimationName 60s ease infinite;
+    animation: AnimationName 60s ease infinite;
+}
+
+@-webkit-keyframes AnimationName {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+@-moz-keyframes AnimationName {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+@keyframes AnimationName {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
