@@ -10916,13 +10916,13 @@ textarea.form-control-lg {
 
 /* Style the front side (fallback if image is missing) */
 .flip-card-front {
-  background-color: #bbb;
-  color: black;
+  background-color: #6667AB;
+  color: white;
 }
 
 /* Style the back side */
 .flip-card-back {
-  background-color: dodgerblue;
+  background-color: #6667AB;
   color: white;
   transform: rotateY(180deg);
 }

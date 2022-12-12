@@ -12,7 +12,7 @@
   background-color: transparent;
   width: 300px;
   height: 200px;
-  b/* border: 1px solid #f1f1f1; */
+  /* border: 1px solid #f1f1f1; */
   perspective: 1000px; /* Remove this if you don't want the 3D effect */
 }
 
@@ -24,6 +24,8 @@
   text-align: center;
   transition: transform 0.8s;
   transform-style: preserve-3d;
+  padding: 20px;
+  margin: 20px;
 }
 
 /* Do an horizontal flip when you move the mouse over the flip box container */
@@ -42,13 +44,13 @@
 
 /* Style the front side (fallback if image is missing) */
 .flip-card-front {
-  background-color: #bbb;
-  color: black;
+  background-color: #6667AB;
+  color: white;
 }
 
 /* Style the back side */
 .flip-card-back {
-  background-color: dodgerblue;
+  background-color: #6667AB;
   color: white;
   transform: rotateY(180deg);
 }
