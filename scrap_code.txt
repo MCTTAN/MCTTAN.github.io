@@ -1,0 +1,123 @@
+<h8 style="font-size: 60px; font-style: italic; font-weight: 700; color: white;">Fun FAQs (That No One Asked)</h8>
+      
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      
+      <h9 style="font-size: 30px; font-style: italic; font-weight: 500; color: white;">What's in your playlist?</h9>
+      
+      <br>
+      <br>
+      
+      <a href="https://www.youtube.com/watch?v=L46iCN6MBFM&list=PLxShKn5u_K7XUvwxERQLtzr2QReg9Xndp"><button type="button" class="btn btn-pill btn-purple" style="letter-spacing: 1px; word-spacing: 1px;">Click Here To Find Out</button></a>
+      
+      <br>
+      <br>
+      <br>
+      <br>
+      
+      <h9 style="font-size: 30px; font-style: italic; font-weight: 500; color: white;">No seriously, what's in your real playlist?</h9>
+      
+      <br>
+      <br>
+      
+      <p style="font-family: 'Merriweather', serif; color: white; font-size: 20px;">. . .</p>
+      
+      <br>
+      <br>
+      <br>
+      
+      <h9 style="font-size: 30px; font-style: italic; font-weight: 500; color: white;">What alarm song do you wake up to?</h9>
+      
+      <br>
+      <br>
+      
+      <a href="https://www.youtube.com/watch?v=uT4ySwoh27Q"><button type="button" class="btn btn-pill btn-purple" style="letter-spacing: 1px; word-spacing: 1px;">Click Here To Find Out</button></a>
+      
+      <br>
+      <br>
+      <br>
+      <br>
+      
+      <h9 style="font-size: 30px; font-style: italic; font-weight: 500; color: white;">What's your spirit animal?</h9>
+      
+      <br>
+      <br>
+      
+      <p style="font-family: 'Merriweather', serif; color: white; font-size: 20px;">Kuzco</p>
+      
+      <br>
+      <br>
+      <br>
+
+      <h9 style="font-size: 30px; font-style: italic; font-weight: 500; color: white;">Favorite Hero</h9>
+      
+      <br>
+      <br>
+      
+      <p style="font-family: 'Merriweather', serif; color: white; font-size: 20px;">I have an unhealthy obsession with Batman. I like him because of his parental issues, butler-abuse, martial arts, and gadgets.</p>
+      
+      <br>
+      <br>
+      <br>
+      
+      <h9 style="font-size: 30px; font-style: italic; font-weight: 500; color: white;">Favorite Villain</h9>
+      
+      <br>
+      <br>
+      
+      <p style="font-family: 'Merriweather', serif; color: white; font-size: 20px;">Why wouldn't I like him? He's the Ying to Batman's Yang, and vice-versa.</p>
+      
+      <br>
+      <br>
+      <br>
+      
+      <h9 style="font-size: 30px; font-style: italic; font-weight: 500; color: white;">Favorite Actors</h9>
+      
+      <br>
+      <br>
+      
+      <p style="font-family: 'Merriweather', serif; color: white; font-size: 20px;">Vincent Price, Bruce Lee, Keanu Reeves, and Frank Sinatra (just to name a few)</p>
+      
+      <br>
+      <br>
+      <br>
+      
+      <h9 style="font-size: 30px; font-style: italic; font-weight: 500; color: white;">Favorite Pizza Topping</h9>
+      
+      <br>
+      <br>
+      
+      <p style="font-family: 'Merriweather', serif; color: white; font-size: 20px;">I don't really like pizza. But if I had to pick a topping, then it would be pineapple.</p>
+      
+      <br>
+      <br>
+      <br>
+      
+      <h9 style="font-size: 30px; font-style: italic; font-weight: 500; color: white;">"Potato" or "Potato"?</h9>
+      
+      <br>
+      <br>
+      
+      <p style="font-family: 'Merriweather', serif; color: white; font-size: 20px;">Potato.</p>
+      
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+    
+    </div>

@@ -1,0 +1,1491 @@
+  <!-- Navigation -->
+  <nav class="navbar fixed-top navbar-expand-lg navbar-dark fixed-top" style="
+background: linear-gradient(270deg, #388087, #6fb3b8, #badfe7, #c2edce, #f6f6f2);
+background-size: 1600% 1600%;
+
+-webkit-animation: AnimationName 59s ease infinite;
+-moz-animation: AnimationName 59s ease infinite;
+animation: AnimationName 59s ease infinite;">
+    
+    <div class="container" style="letter-spacing: 2.5px; word-spacing: 2.5px;">
+      
+      <a class="navbar-brand" href="index.html" style="color: black;">M.C. TAN</a>
+      
+      <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+        
+        <span class="navbar-toggler-icon"></span>
+        
+      </button>
+      
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+        
+        <ul class="navbar-nav ml-auto">
+          
+          <li class="nav-item">
+            <a class="nav-link" href="#Hello" style="color: black;">Hello</a>
+          </li>
+          
+          <li class="nav-item">
+            <a class="nav-link" href="#Specialties" style="color: black;">Specialties</a>
+          </li>
+          
+          <li class="nav-item">
+            <a class="nav-link" href="#Languages" style="color: black;">Languages</a>
+          </li>
+          
+          <li class="nav-item">
+            <a class="nav-link" href="#Tools" style="color: black;">Tools</a>
+          </li>
+          
+          <li class="nav-item">
+            <a class="nav-link" href="#Activities" style="color: black;">Activities</a>
+          </li>
+          
+          <li class="nav-item">
+            <a class="nav-link" href="#Contact" style="color: black;">Contact</a>
+          </li>
+          
+        </ul>
+        
+      </div>
+      
+    </div>
+    
+  </nav>
+  <!-- Navigation -->
+  
+  
+  
+  <!-- Logo & Typography Designs -->
+  <div style="text-align: center; background-color: #1034a6;">
+    
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+      
+    <a name="Logo and Typography Designs"><h2 style="color: #fff">LOGO & TYPOGRAPHY DESIGNS</h2></a>
+    
+    <br>
+    <br>
+    <br>
+    
+    <img class="card-img top" src="https://raw.githubusercontent.com/MCTTAN/MCTTAN.github.io/master/outdoor-orion/logos%20(7)%20(1).png" alt="Card image cap" style="width: 30%; height: 30%; border-radius: 5px;">
+    
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    
+  </div>
+  <!-- Logo & Typography Designs -->
+    
+  <!-- Specializations -->
+  <div style="text-align:center; background-color: #FF403F;">
+    
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+      
+    <a name="Specialties"><h2 style="color: #fff">SPECIALIZATIONS</h2></a>
+    
+    <br>
+
+    <div class="row" style="padding-left: 16rem; padding-right: 16rem;">
+      
+      <!-- Mixed Reality -->
+      <div class="col-lg-4 col-sm-6 portfolio-item">
+        
+        <div class="card h-100">
+          
+          <img class="card-img-top" src="" alt="">
+          
+          <div class="card-body">
+            
+            <br>
+            
+            <h4 class="card-title">
+              <div style="text-align:center">
+                <p style="color: #75A102; font-family: 'Work Sans', sans-serif;">Mixed Reality</p>
+              </div>
+            </h4>
+            
+            <p class="card-text"></p>
+            
+          </div>
+          
+        </div>
+        
+      </div>
+      <!-- Mixed Reality -->
+      
+      <!-- Computer-Aided Designing (CAD) -->
+      <div class="col-lg-4 col-sm-6 portfolio-item">
+        
+        <div class="card h-100">
+          
+          <img class="card-img-top" src="" alt="">
+          
+          <div class="card-body">
+            
+            <br>
+            
+            <h4 class="card-title">
+              <div style="text-align:center">
+                <p style="color: #75A102; font-family: 'Work Sans', sans-serif;">Computer-Aided Designing (CAD)</p>
+              </div>
+            </h4>
+            
+            <p class="card-text"></p>
+            
+          </div>
+          
+        </div>
+        
+      </div>
+      <!-- Computer-Aided Designing (CAD) -->
+      
+      <!-- Animations -->
+      <div class="col-lg-4 col-sm-6 portfolio-item">
+        
+        <div class="card h-100">
+          
+          <img class="card-img-top" src="" alt="">
+          
+          <div class="card-body">
+            
+            <br>
+            
+            <h4 class="card-title">
+              <div style="text-align:center">
+                <p style="color: #75A102; font-family: 'Work Sans', sans-serif;">Animations</p>
+              </div>
+            </h4>
+            
+            <p class="card-text"></p>
+            
+          </div>
+          
+        </div>
+        
+      </div>
+      <!-- Animations -->
+      
+      <!--Data Visualization -->
+      <div class="col-lg-4 col-sm-6 portfolio-item">
+        
+        <div class="card h-100">
+          
+          <img class="card-img-top" src="" alt="">
+          
+          <div class="card-body">
+            
+            <br>
+            
+            <h4 class="card-title">
+              <div style="text-align:center">
+                <p style="color: #75A102; font-family: 'Work Sans', sans-serif;">Data Visualization</p>
+              </div>
+            </h4>
+            
+            <p class="card-text"></p>
+            
+          </div>
+          
+        </div>
+        
+      </div>
+      <!--Data Visualization -->
+      
+      <!--Product Designing -->
+      <div class="col-lg-4 col-sm-6 portfolio-item">
+        
+        <div class="card h-100">
+          
+          <img class="card-img-top" src="" alt="">
+          
+          <div class="card-body">
+            
+            <br>
+            
+            <h4 class="card-title">
+              <div style="text-align:center">
+                <p style="color: #75A102; font-family: 'Work Sans', sans-serif;">Product Designing</p>
+              </div>
+            </h4>
+            
+            <p class="card-text"></p>
+            
+          </div>
+          
+        </div>
+        
+      </div>
+      <!--Product Designing -->
+      
+      <!-- Graphic Designing-->
+      <div class="col-lg-4 col-sm-6 portfolio-item">
+        
+        <div class="card h-100">
+          
+          <img class="card-img-top" src="" alt="">
+          
+          <div class="card-body">
+            
+            <br>
+            
+            <h4 class="card-title">
+              <div style="text-align:center">
+                <p style="color: #75A102; font-family: 'Work Sans', sans-serif;">Graphic Designing</p>
+              </div>
+            </h4>
+            
+            <p class="card-text"></p>
+            
+          </div>
+          
+        </div>
+        
+      </div>
+      <!-- Graphic Designing-->
+      
+      <!--Web Designing-->
+      <div class="col-lg-4 col-sm-6 portfolio-item">
+        
+        <div class="card h-100">
+          
+          <img class="card-img-top" src="" alt="">
+          
+          <div class="card-body">
+            
+            <br>
+            
+            <h4 class="card-title">
+              <div style="text-align:center">
+                <p style="color: #75A102; font-family: 'Work Sans', sans-serif;">Web Designing</p>
+              </div>
+            </h4>
+            
+            <p class="card-text"></p>
+            
+          </div>
+          
+        </div>
+        
+      </div>
+      <!--Web Designing-->
+    
+    </div>
+
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    
+  </div>
+  <!-- Specializations -->
+
+  <!-- Languages -->
+  <div style="text-align:center; background-color: #9999CC;">
+    
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+      
+    <a name="Languages"><h2 style="color: #fff">PROGRAMMING LANGUAGES</h2></a>
+    
+    <br>
+
+    <div class="row" style="padding-left: 16rem; padding-right: 16rem;">
+      
+      <!-- C/C#/C++ -->
+      <div class="col-lg-4 col-sm-6 portfolio-item">
+        
+        <div class="card h-100">
+          
+          <img class="card-img-top" src="" alt="">
+          
+          <div class="card-body">
+            <br>
+            <h4 class="card-title">
+              <div style="text-align:center">
+                <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
+width="50" height="50"
+viewBox="0 0 172 172"
+style=" fill:#000000;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal"><path d="M0,172v-172h172v172z" fill="none"></path><g fill="#75a102"><path d="M58.29808,0c-3.07512,0.33594 -5.91767,1.73137 -8.0625,3.92788l-26.46154,26.46154c-2.48077,2.45493 -3.90204,5.8143 -3.92788,9.30288v92.61538c0.02584,3.48858 1.44712,6.84796 3.92788,9.30288l26.46154,26.46154c2.45493,2.48077 5.8143,3.90204 9.30288,3.92788h52.92308c3.48858,-0.02584 6.84796,-1.44712 9.30288,-3.92788l26.46154,-26.46154l-18.60577,-18.60577l-22.53365,22.53365h-42.17308l-18.60577,-18.60577v-81.86538l18.60577,-18.60577h42.17308l22.53365,22.53365l18.60577,-18.60577l-26.46154,-26.46154c-2.45493,-2.48077 -5.8143,-3.90204 -9.30288,-3.92788h-52.92308c-0.41346,-0.02584 -0.82692,-0.02584 -1.24038,0z"></path></g></g></svg>
+                <br>
+                <br>
+                <p style="color: #75A102; font-family: 'Work Sans', sans-serif;">C/C#/C++</p>
+              </div>
+            </h4>
+          </div>
+          
+        </div>
+        
+      </div>
+      <!-- C/C#/C++ -->
+      
+      <!-- R -->
+      <div class="col-lg-4 col-sm-6 portfolio-item">
+        
+        <div class="card h-100">
+          
+          <img class="card-img-top" src="" alt="">
+          
+          <div class="card-body">
+            <br>
+            <h4 class="card-title">
+              <div style="text-align:center">
+                <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
+width="50" height="50"
+viewBox="0 0 172 172"
+style=" fill:#000000;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal"><path d="M0,172v-172h172v172z" fill="none"></path><g fill="#75a102"><path d="M31.83654,0c-6.82212,0.64603 -12.01622,6.38281 -11.99038,13.23077v158.76923h26.46154v-66.15385h59.74519l19.63942,24.39423v41.75962h26.46154v-46.30769c0,-2.9976 -1.00781,-5.91767 -2.89423,-8.26923l-19.01923,-23.98077l17.98558,-17.98558c2.48077,-2.45493 3.90204,-5.8143 3.92788,-9.30288v-26.46154c-0.02584,-3.48858 -1.44712,-6.84796 -3.92788,-9.30288l-26.46154,-26.46154c-2.45493,-2.48077 -5.8143,-3.90204 -9.30288,-3.92788h-79.38462c-0.41346,-0.02584 -0.82692,-0.02584 -1.24038,0zM46.30769,26.46154h60.77885l18.60577,18.60577v15.71154l-18.60577,18.60577h-60.77885z"></path></g></g></svg>
+                <br>
+                <br>
+                <p style="color: #75A102; font-family: 'Work Sans', sans-serif;">R</p>
+              </div>
+            </h4>
+            
+          </div>
+          
+        </div>
+        
+      </div>
+      <!-- R -->
+      
+      <!-- Python -->
+      <div class="col-lg-4 col-sm-6 portfolio-item">
+        
+        <div class="card h-100">
+          
+          <img class="card-img-top" src="" alt="">
+          
+          <div class="card-body">
+            <br>
+            <h4 class="card-title">
+              <div style="text-align:center">
+                <i class="fab fa-python fa-lg white-text fa-2x" style="color: #75A102"></i>
+                <br>
+                <br>
+                <p style="color: #75A102; font-family: 'Work Sans', sans-serif;">Python</p>
+              </div>
+            </h4>
+            
+          </div>
+          
+        </div>
+        
+      </div>
+      <!-- Python -->
+      
+      <!-- HTML/CSS/JS -->
+      <div class="col-lg-4 col-sm-6 portfolio-item">
+        
+        <div class="card h-100">
+          
+          <img class="card-img-top" src="" alt="">
+          
+          <div class="card-body">
+            <br>
+            <h4 class="card-title">
+              <div style="text-align:center">
+                <i class="fas fa-code fa-lg white-text fa-2x" style="color: #75A102"></i>
+                <br>
+                <br>
+                <p style="color: #75A102; font-family: 'Work Sans', sans-serif;">HTML/CSS/JS</p>
+              </div>
+            </h4>
+            
+          </div>
+          
+        </div>
+        
+      </div>
+      <!-- HTML/CSS/JS -->
+      
+      <!-- Scheme -->
+      <div class="col-lg-4 col-sm-6 portfolio-item">
+        
+        <div class="card h-100">
+          
+          <img class="card-img-top" src="" alt="">
+          
+          <div class="card-body">
+            <br>
+            <h4 class="card-title">
+              <div style="text-align:center">
+                <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
+width="50" height="50"
+viewBox="0 0 172 172"
+style=" fill:#000000;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal"><path d="M0,172v-172h172v172z" fill="none"></path><g fill="#75a102"><path d="M58.29808,0c-3.07512,0.33594 -5.91767,1.73137 -8.0625,3.92788l-26.46154,26.46154c-2.48077,2.45493 -3.90204,5.8143 -3.92788,9.30288v19.84615c0.02584,3.48858 1.44712,6.84796 3.92788,9.30288l26.46154,26.46154c2.45493,2.48077 5.8143,3.90204 9.30288,3.92788h47.54808l18.60577,18.60577v9.09615l-18.60577,18.60577h-48.78846l-22.53365,-22.53365l-18.60577,18.60577l26.46154,26.46154c2.45493,2.48077 5.8143,3.90204 9.30288,3.92788h59.53846c3.48858,-0.02584 6.84796,-1.44712 9.30288,-3.92788l26.46154,-26.46154c2.48077,-2.45493 3.90204,-5.8143 3.92788,-9.30288v-19.84615c-0.02584,-3.48858 -1.44712,-6.84796 -3.92788,-9.30288l-26.46154,-26.46154c-2.45493,-2.48077 -5.8143,-3.90204 -9.30288,-3.92788h-47.54808l-18.60577,-18.60577v-9.09615l18.60577,-18.60577h35.55769l22.53365,22.53365l18.60577,-18.60577l-26.46154,-26.46154c-2.45493,-2.48077 -5.8143,-3.90204 -9.30288,-3.92788h-46.30769c-0.41346,-0.02584 -0.82692,-0.02584 -1.24038,0z"></path></g></g></svg>
+                <br>
+                <br>
+                <p style="color: #75A102; font-family: 'Work Sans', sans-serif;">Scheme</p>
+              </div>
+            </h4>
+            
+          </div>
+          
+        </div>
+        
+      </div>
+      <!-- Scheme -->
+      
+      <!-- Julia -->
+      <div class="col-lg-4 col-sm-6 portfolio-item">
+        
+        <div class="card h-100">
+          
+          <img class="card-img-top" src="" alt="">
+          
+          <div class="card-body">
+            <br>
+            <h4 class="card-title">
+              <div style="text-align:center">
+                <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
+width="50" height="50"
+viewBox="0 0 172 172"
+style=" fill:#000000;"><g transform=""><g fill="none" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal"><path d="M0,172v-172h172v172z" fill="none"></path><g id="original-icon" fill="#75a102"><path d="M92.61538,0v26.46154h13.23077v100.47115l-18.60577,18.60577h-15.71154l-22.53365,-22.53365l-18.60577,18.60577l26.46154,26.46154c2.45493,2.48077 5.8143,3.90204 9.30288,3.92788h26.46154c3.48858,-0.02584 6.84796,-1.44712 9.30288,-3.92788l26.46154,-26.46154c2.48077,-2.45493 3.90204,-5.8143 3.92788,-9.30288v-105.84615h13.23077v-26.46154z"></path></g><path d="" fill="none"></path><path d="" fill="none"></path><path d="" fill="none"></path><path d="" fill="none"></path></g></g></svg>
+                <br>
+                <br>
+                <p style="color: #75A102; font-family: 'Work Sans', sans-serif;">Julia</p>
+              </div>
+            </h4>
+            
+          </div>
+          
+        </div>
+        
+      </div>
+      <!-- Julia -->
+      
+    </div>
+    
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+      
+  </div>
+  <!-- Languages -->
+    
+  <!-- Devtools -->
+  <div style="text-align:center; background-color: #C0AE2C;">
+    
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    
+    <a name="Tools"><h2 style="color: #fff">DEVTOOLS</h2></a>
+
+    <br>
+
+    <!-- Unity -->
+    <div class="row" style="padding-left: 16rem; padding-right: 16rem;">
+      
+      <div class="col-lg-4 col-sm-6 portfolio-item">
+        
+        <div class="card h-100">
+          
+          <img class="card-img-top" src="" alt="">
+          
+          <div class="card-body">
+            <br>
+            <h4 class="card-title">
+              <div style="text-align:center">
+                <p style="color: #75A102; font-family: 'Work Sans', sans-serif;">Unity</p>
+              </div>
+            </h4>
+            
+          </div>
+          
+        </div>
+        
+      </div>
+      <!-- Unity -->
+      
+      <!-- Unreal -->
+      <div class="col-lg-4 col-sm-6 portfolio-item">
+        
+        <div class="card h-100">
+          
+          <img class="" alt="">
+          
+          <div class="card-body">
+            <br>
+            <h4 class="card-title">
+              <div style="text-align:center">
+                <p style="color: #75A102; font-family: 'Work Sans', sans-serif;">Unreal</p>
+              </div>
+            </h4>
+            
+          </div>
+          
+        </div>
+        
+      </div>
+      <!-- Unreal -->
+      
+      <!-- Autodesk Maya -->
+      <div class="col-lg-4 col-sm-6 portfolio-item">
+        
+        <div class="card h-100">
+          
+          <img class="card-img-top" src="" alt="">
+          
+          <div class="card-body">
+            <br>
+            <h4 class="card-title">
+              <div style="text-align:center">
+                <p style="color: #75A102; font-family: 'Work Sans', sans-serif;">Autodesk Maya</p>
+              </div>
+            </h4>
+            
+          </div>
+          
+        </div>
+        
+      </div>
+      <!-- Autodesk Maya-->
+      
+      <!-- Blender -->
+      <div class="col-lg-4 col-sm-6 portfolio-item">
+        
+        <div class="card h-100">
+          
+          <img class="card-img-top" src="" alt="">
+          
+          <div class="card-body">
+            <br>
+            <h4 class="card-title">
+              <div style="text-align:center">
+                <p style="color: #75A102; font-family: 'Work Sans', sans-serif;">Blender</p>
+              </div>
+            </h4>
+            
+          </div>
+          
+        </div>
+        
+      </div>
+      <!-- Blender -->
+      
+      <!-- Google SketchUp -->
+      <div class="col-lg-4 col-sm-6 portfolio-item">
+        
+        <div class="card h-100">
+          
+          <img class="card-img-top" src="" alt="">
+          
+          <div class="card-body">
+            <br>
+            <h4 class="card-title">
+              <div style="text-align:center">
+                <p style="color: #75A102; font-family: 'Work Sans', sans-serif;">Google SketchUp</p>
+              </div>
+            </h4>
+            
+          </div>
+          
+        </div>
+        
+      </div>
+      <!-- Google SketchUp-->
+      
+      <!-- RStudio -->
+      <div class="col-lg-4 col-sm-6 portfolio-item">
+      
+        <div class="card h-100">
+        
+          <img class="card-img-top" src="" alt="">
+          
+          <div class="card-body">
+            <br>
+            <h4 class="card-title">
+              <div style="text-align:center">
+                <p style="color: #75A102; font-family: 'Work Sans', sans-serif;">RStudio</p>
+              </div>
+            </h4>
+            
+          </div>
+          
+        </div>
+        
+      </div>
+      <!-- RStudio -->
+      
+      <!-- MatLab -->
+      <div class="col-lg-4 col-sm-6 portfolio-item">
+      
+        <div class="card h-100">
+        
+          <img class="card-img-top" src="" alt="">
+          
+          <div class="card-body">
+            <br>
+            <h4 class="card-title">
+              <div style="text-align:center">
+                <p style="color: #75A102; font-family: 'Work Sans', sans-serif;">MatLab</p>
+              </div>
+            </h4>
+            
+          </div>
+          
+        </div>
+        
+      </div>
+      <!-- MatLab -->
+      
+      <!-- Jupyter -->
+      <div class="col-lg-4 col-sm-6 portfolio-item">
+      
+        <div class="card h-100">
+        
+          <img class="card-img-top" src="" alt="">
+          
+          <div class="card-body">
+            <br>
+            <h4 class="card-title">
+              <div style="text-align:center">
+                <p style="color: #75A102; font-family: 'Work Sans', sans-serif;">Jupyter</p>
+              </div>
+            </h4>
+            
+          </div>
+          
+        </div>
+        
+      </div>
+      <!-- Jupyter -->
+      
+      <!-- Anaconda -->
+      <div class="col-lg-4 col-sm-6 portfolio-item">
+      
+        <div class="card h-100">
+        
+          <img class="card-img-top" src="" alt="">
+          
+          <div class="card-body">
+            <br>
+            <h4 class="card-title">
+              <div style="text-align:center">
+                <p style="color: #75A102; font-family: 'Work Sans', sans-serif;">Anaconda</p>
+              </div>
+            </h4>
+            
+          </div>
+          
+        </div>
+        
+      </div>
+      <!-- Anaconda -->
+      
+      <!-- APIs -->
+      <div class="col-lg-4 col-sm-6 portfolio-item">
+      
+        <div class="card h-100">
+        
+          <img class="card-img-top" src="" alt="">
+          
+          <div class="card-body">
+            <br>
+            <h4 class="card-title">
+              <div style="text-align:center">
+                <p style="color: #75A102; font-family: 'Work Sans', sans-serif;">APIs</p>
+              </div>
+            </h4>
+            
+          </div>
+          
+        </div>
+        
+      </div>
+      <!-- APIs -->
+      
+      <!-- ArcGIS -->
+      <div class="col-lg-4 col-sm-6 portfolio-item">
+      
+        <div class="card h-100">
+        
+          <img class="card-img-top" src="" alt="">
+          
+          <div class="card-body">
+            <br>
+            <h4 class="card-title">
+              <div style="text-align:center">
+                <p style="color: #75A102; font-family: 'Work Sans', sans-serif;">ArcGIS</p>
+              </div>
+            </h4>
+            
+          </div>
+          
+        </div>
+        
+      </div>
+      <!-- ArcGIS -->
+      
+      <!-- Photoshop -->
+      <div class="col-lg-4 col-sm-6 portfolio-item">
+      
+        <div class="card h-100">
+        
+          <img class="card-img-top" src="" alt="">
+          
+          <div class="card-body">
+            <br>
+            <h4 class="card-title">
+              <div style="text-align:center">
+                <p style="color: #75A102; font-family: 'Work Sans', sans-serif;">Photoshop</p>
+              </div>
+            </h4>
+            
+          </div>
+          
+        </div>
+        
+      </div>
+      <!-- Photoshop -->
+      
+      <!-- Microsoft Office -->
+      <div class="col-lg-4 col-sm-6 portfolio-item">
+      
+        <div class="card h-100">
+        
+          <img class="card-img-top" src="/cloud/project/media/color-block (6).png" alt="">
+          
+          <div class="card-body">
+            <br>
+            <h4 class="card-title">
+              <div style="text-align:center">
+                <p style="color: #75A102; font-family: 'Work Sans', sans-serif;">Microsoft Office</p>
+              </div>
+            </h4>
+            
+          </div>
+          
+        </div>
+        
+      </div>
+      <!-- Microsoft Office -->
+      
+    </div>
+    
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    
+  </div>
+  <!-- Devtools -->
+  
+  <!-- Portfolio -->
+  <div style="text-align: center; background-color: #005258">
+  
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    
+    <a name="Activities"><h2 style="color: #fff">PORTFOLIO</h2></a>
+    
+    <br>
+    
+    <div class="row" style="padding-left: 16rem; padding-right: 16rem;">
+      
+      <!-- WLCMD.org -->
+      <div class="col-lg-4 mb-4">
+        <div class="card h-100">
+          <h4 class="card-header">
+            <div style="text-align:center">
+              <br>
+              <a href="www.wlcmd.org" style="color: #75A102">WLCMD.org</a>
+              <br>
+              <br>
+              <h6 style="color: #586634">The Women's Law Center Of Maryland</h6>
+              <h6 style="color: #586634">September 2019</h6>
+            </div>
+          </h4>
+          <div class="card-body">
+            <p class="card-text" style="color: #586634">The original website was designed before mobile usage was prevalent. Thus, the site needed to be updated so that users can find information on both web and mobile platforms. Collaboration was done with professional designers and developers.</p>
+            <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">web app</span>
+            <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">collaboration</span>
+            <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">Google Translate</span>
+            <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">HTML/CSS/JS</span>
+          </div>
+          <div class="card-footer" style="text-align:center">
+            <a href="#" class="btn btn-primary" style="letter-spacing: 1px; word-spacing: 1px;">Learn More</a>
+          </div>
+        </div>
+      </div>
+      <!-- WLCMD.org -->
+      
+      <!-- LivePangaea -->
+      <div class="col-lg-4 mb-4">
+        <div class="card h-100">
+          <h4 class="card-header">
+            <div style="text-align:center">
+              <br>
+              <a href="#" style="color: #75A102">LivePangaea</a>
+              <br>
+              <br>
+              <h6 style="color: #586634">PennApps XX</h6>
+              <h6 style="color: #586634">September 2019</h6>
+            </div>
+          </h4>
+          <div class="card-body">
+            <p class="card-text" style="color: #586634">This application concept makes donating a more fulfilling and social experience through connecting its users to the people whose lives they've impacted. It uses social networking, data visualization, and mobile payments to bring communities and charities closer together. Collaboration was done with other undergraduates who were inexperienced in web development and had diverse coding backgrounds.</p>
+            <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">web app</span>
+            <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">collaboration</span>
+            <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">Bootstrap</span>
+            <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">RStudio</span>
+            <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">Google</span>
+            <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">Facebook</span>
+            <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">PayPal</span>
+            <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">GlobalGiving</span>
+          </div>
+          <div class="card-footer" style="text-align:center">
+            <a href="#" class="btn btn-primary" style="letter-spacing: 1px; word-spacing: 1px;">Learn More</a>
+          </div>
+        </div>
+      </div>
+      <!-- LivePangaea -->
+      
+      <!-- Virtulis -->
+      <div class="col-lg-4 mb-4">
+        <div class="card h-100">
+          <h4 class="card-header">
+            <div style="text-align:center">
+              <br>
+              <a href="#" style="color: #75A102">Virtulis</a>
+              <br>
+              <br>
+              <h6 style="color: #586634">Independent Project</h6>
+              <h6 style="color: #586634">August 2019</h6>
+            </div>
+          </h4>
+          <div class="card-body">
+            <p class="card-text" style="color: #586634"></p>
+            <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">web app</span>
+            <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">independent</span>
+            <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">dashboard</span>
+            <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">Bootstrap</span>
+            <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">RStudio</span>
+            <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">Google</span>
+            <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">public safety</span>
+            <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">law enforcement</span>
+            <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">data visualization</span>
+          </div>
+          <div class="card-footer" style="text-align:center">
+            <a href="#" class="btn btn-primary" style="letter-spacing: 1px; word-spacing: 1px;">Learn More</a>
+          </div>
+        </div>
+      </div>
+      <!-- Virtulis -->
+      
+      <!-- Tech Artwork -->
+      <div class="col-lg-4 mb-4">
+        <div class="card h-100">
+          <h4 class="card-header">
+            <div style="text-align:center">
+              <br>
+              <a href="#" style="color: #75A102">Tech Artwork</a>
+              <br>
+              <br>
+              <h6 style="color: #586634">Flawless Hacks Zine</h6>
+              <h6 style="color: #586634">Issue No. 1</h6>
+              <h6 style="color: #586634">July 2018 - November 2018</h6>
+            </div>
+          </h4>
+          <div class="card-body">
+            <p class="card-text" style="color: #586634"></p>
+            <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">artwork</span>
+          </div>
+          <div class="card-footer" style="text-align:center">
+            <a href="#" class="btn btn-primary" style="letter-spacing: 1px; word-spacing: 1px;">Learn More</a>
+          </div>
+        </div>
+      </div>
+      <!-- Tech Artwork -->
+      
+      <!-- Ibis -->
+      <div class="col-lg-4 mb-4">
+        <div class="card h-100">
+          <h4 class="card-header">
+            <div style="text-align:center">
+              <br>
+              <a href="#" style="color: #75A102">Ibis</a>
+              <br>
+              <br>
+              <h6 style="color: #586634">BitCamp</h6>
+              <h6 style="color: #586634">April 2019</h6>
+            </div>
+          </h4>
+          <div class="card-body">
+            <p class="card-text" style="color: #586634"></p>
+            <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">mobile app</span>
+          </div>
+          <div class="card-footer" style="text-align:center">
+            <a href="#" class="btn btn-primary" style="letter-spacing: 1px; word-spacing: 1px;">Learn More</a>
+          </div>
+        </div>
+      </div>
+      <!-- Ibis -->
+      
+      <!-- Anansi -->
+      <div class="col-lg-4 mb-4">
+        <div class="card h-100">
+          <h4 class="card-header">
+            <div style="text-align:center">
+              <br>
+              <a href="#" style="color: #75A102">Anansi</a>
+              <br>
+              <br>
+              <h6 style="color: #586634">HackHarvard</h6>
+              <h6 style="color: #586634">October 2018</h6>
+            </div>
+          </h4>
+          <div class="card-body">
+            <p class="card-text" style="color: #586634"></p>
+            <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">web app</span>
+            <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">Google Speech-To-Text API</span>
+            <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">Google Text-To-Speech API</span>
+          </div>
+          <div class="card-footer" style="text-align:center">
+            <a href="#" class="btn btn-primary" style="letter-spacing: 1px; word-spacing: 1px;">Learn More</a>
+          </div>
+        </div>
+      </div>
+      <!-- Anansi -->
+      
+      <!-- Mapifier -->
+      <div class="col-lg-4 mb-4">
+        <div class="card h-100">
+          <h4 class="card-header">
+            <div style="text-align:center">
+              <br>
+              <a href="#" style="color: #75A102">Mapifier</a>
+              <br>
+              <br>
+              <h6 style="color: #586634">BitCamp</h6>
+              <h6 style="color: #586634">April 2018</h6>
+            </div>
+          </h4>
+          <div class="card-body">
+            <p class="card-text" style="color: #586634"></p>
+            <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">computer application</span>
+            <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">ArcGIS</span>
+          </div>
+          <div class="card-footer" style="text-align:center">
+            <a href="#" class="btn btn-primary" style="letter-spacing: 1px; word-spacing: 1px;">Learn More</a>
+          </div>
+        </div>
+      </div>
+      <!-- Mapifier -->
+      
+      <!-- OperatAR -->
+      <div class="col-lg-4 mb-4">
+        <div class="card h-100">
+          <h4 class="card-header">
+            <div style="text-align:center">
+              <br>
+              <a href="#" style="color: #75A102">OperatAR</a>
+              <br>
+              <br>
+              <h6 style="color: #586634">YHack</h6>
+              <h6 style="color: #586634">December 2017 - Present</h6>
+            </div>
+          </h4>
+          <div class="card-body">
+            <p class="card-text" style="color: #586634"></p>
+            <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">computer application</span>
+            <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">biomedical science</span>
+            <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">AR</span>
+            <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">Unity</span>
+            <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">Google Text-to-Speech API</span>
+            <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">Google Speech-to-Text API</span>
+            <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">collaboration</span>
+            <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">hackathon</span>
+          </div>
+          <div class="card-footer" style="text-align:center">
+            <a href="#" class="btn btn-primary" style="letter-spacing: 1px; word-spacing: 1px;">Learn More</a>
+          </div>
+        </div>
+      </div>
+      <!-- OperatAR -->
+      
+      <!-- Stock Predictor -->
+      <div class="col-lg-4 mb-4">
+        <div class="card h-100">
+          <h4 class="card-header">
+            <div style="text-align:center">
+              <br>
+              <a href="#" style="color: #75A102">Stock Predictor</a>
+              <br>
+              <br>
+              <h6 style="color: #586634">HackUMBC</h6>
+              <h6 style="color: #586634">October 2017</h6>
+            </div>
+          </h4>
+          <div class="card-body">
+            <p class="card-text" style="color: #586634"></p>
+            <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">computer application</span>
+            <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">hackathon</span>
+            <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">collaboration</span>
+          </div>
+          <div class="card-footer" style="text-align:center">
+            <a href="#" class="btn btn-primary" style="letter-spacing: 1px; word-spacing: 1px;">Learn More</a>
+          </div>
+        </div>
+      </div>
+      <!-- Stock Predictor -->
+      
+      <!-- MapAR -->
+      <div class="col-lg-4 mb-4">
+        <div class="card h-100">
+          <h4 class="card-header">
+            <div style="text-align:center">
+              <br>
+              <a href="#" style="color: #75A102">MapAR</a>
+              <br>
+              <br>
+              <h6 style="color: #586634">Innovate Good</h6>
+              <h6 style="color: #586634">April 2017</h6>
+            </div>
+          </h4>
+          <div class="card-body">
+            <p class="card-text" style="color: #586634"></p>
+            <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">computer application</span>
+            <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">AR</span>
+            <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">hackathon</span>
+          </div>
+          <div class="card-footer" style="text-align:center">
+            <a href="#" class="btn btn-primary" style="letter-spacing: 1px; word-spacing: 1px;">Learn More</a>
+          </div>
+        </div>
+      </div>
+      <!-- MapAR -->
+      
+      <!-- Spread -->
+      <div class="col-lg-4 mb-4">
+        <div class="card h-100">
+          <h4 class="card-header">
+            <div style="text-align:center">
+              <br>
+              <a href="#" style="color: #75A102">Spread</a>
+              <br>
+              <br>
+              <h6 style="color: #586634">BitCamp</h6>
+              <h6 style="color: #586634">April 2017</h6>
+            </div>
+          </h4>
+          <div class="card-body">
+            <p class="card-text" style="color: #586634"></p>
+            <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">Chrome extension</span>
+          </div>
+          <div class="card-footer" style="text-align:center">
+            <a href="#" class="btn btn-primary" style="letter-spacing: 1px; word-spacing: 1px;">Learn More</a>
+          </div>
+        </div>
+      </div>
+      <!-- Spread -->
+      
+      <!-- Appy -->
+      <div class="col-lg-4 mb-4">
+        <div class="card h-100">
+          <h4 class="card-header">
+            <div style="text-align:center">
+              <br>
+              <a href="#" style="color: #75A102">Appy</a>
+              <br>
+              <br>
+              <h6 style="color: #586634">BigRed Hacks</h6>
+              <h6 style="color: #586634">March 2017</h6>
+            </div>
+          </h4>
+          <div class="card-body">
+            <p class="card-text" style="color: #586634"></p>
+            <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">mobile app</span>
+          </div>
+          <div class="card-footer" style="text-align:center">
+            <a href="#" class="btn btn-primary" style="letter-spacing: 1px; word-spacing: 1px;">Learn More</a>
+          </div>
+        </div>
+      </div>
+      <!-- Appy -->
+      
+    </div>
+    
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    
+    <!-- Entrepreneurial Ventures Section -->
+    <div style="text-align:center">
+      <h2 style="color: #fff">ENTREPRENEURIAL VENTURES</h2>
+    </div>
+    
+    <br>
+    
+    <div class="row" style="padding-left: 16rem; padding-right: 16rem;">
+      
+      <div class="col-lg-4 mb-4">
+          <div class="card h-100">
+            <h4 class="card-header">
+              <div style="text-align:center">
+                <br>
+                <a href="#" style="color: #75A102">Innovation Center</a>
+                <br>
+                <br>
+                <h6 style="color: #586634">NGO (Concept)</h6>
+                <h6 style="color: #586634">December 2019 - Present</h6>
+              </div>
+            </h4>
+            <div class="card-body">
+              <p class="card-text" style="color: #586634"></p>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">NGO</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">nonprofit</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">organization</span>
+            </div>
+            <div class="card-footer" style="text-align:center">
+              <a href="#" class="btn btn-primary" style="letter-spacing: 1px; word-spacing: 1px;">Learn More</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="col-lg-4 mb-4">
+          <div class="card h-100">
+            <h4 class="card-header">
+              <div style="text-align:center">
+                <br>
+                <a href="#" style="color: #75A102">Outdoor Orion</a>
+                <br>
+                <br>
+                <h6 style="color: #586634">Co-Founder</h6>
+                <h6 style="color: #586634">Family Business</h6>
+                <h6 style="color: #586634">May 2019 - Present</h6>
+              </div>
+            </h4>
+            <div class="card-body">
+              <p class="card-text" style="color: #586634"></p>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">small business</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">product designing</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">custom products</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">graphic designing</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">web designing</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">logo designing</span>
+            </div>
+            <div class="card-footer" style="text-align:center">
+              <a href="#" class="btn btn-primary" style="letter-spacing: 1px; word-spacing: 1px;">Learn More</a>
+            </div>
+          </div>
+        </div>
+        
+    </div>
+    
+    <!-- /.row -->
+    
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    
+    <!-- Communities Section -->
+    <div style="text-align:center">
+      <h2 style="color: #fff">COMMUNITIES</h2>
+    </div>
+    
+    <br>
+    
+    <div class="row" style="padding-left: 16rem; padding-right: 16rem;">
+      
+      <div class="col-lg-4 mb-4">
+          <div class="card h-100">
+            <h4 class="card-header">
+              <div style="text-align:center">
+                <br>
+                <a href="#" style="color: #75A102">Data Science Society</a>
+                <br>
+                <br>
+                <h6 style="color: #586634">Online Community</h6>
+                <h6 style="color: #586634">Member</h6>
+              </div>
+            </h4>
+            <div class="card-body">
+              <p class="card-text" style="color: #586634">
+                
+              Data Science Society is an international digital community and our team has been building a strong core of members digitally around a body of Data Science knowledge while having fun!
+              
+              <br>
+              
+              So far we have organized multiple Data Science Meetups and International Datathons with attendees from more than 20 countries. We devote ourselves also to our own Data platform for all enthusiasts, data geeks and experts who love to share their knowledge and learn more in the field!
+              
+              </p>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">research</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">community</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">online</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">hackathon</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">scientists</span>
+            </div>
+            <div class="card-footer" style="text-align:center">
+              <a href="#" class="btn btn-primary" style="letter-spacing: 1px; word-spacing: 1px;">Learn More</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="col-lg-4 mb-4">
+          <div class="card h-100">
+            <h4 class="card-header">
+              <div style="text-align:center">
+                <br>
+                <a href="#" style="color: #75A102">Make A Mark</a>
+                <br>
+                <br>
+                <h6 style="color: #586634">Hackathon</h6>
+                <h6 style="color: #586634">Participant</h6>
+              </div>
+            </h4>
+            <div class="card-body">
+              <p class="card-text" style="color: #586634">
+                
+              Make A Mark is a 12-hour design, development and overall creative make-a-thon benefitting local humanitarian causes.
+
+              <br>
+              
+              Some of our communities' biggest problems are solved by nonprofits staffed almost entirely by volunteers. Their work deserves the best design, marketing, and technology, but these are far too often out of reach of these impactful organizations.
+
+              <br>
+              
+              So for 12 hours, we gather the best designers and developers to work on projects for the most impactful organizations in the most creative and purposeful communities around the globe.
+              
+              </p>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">community</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">hackathon</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">social good</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">volunteers</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">creators</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">artists</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">HTML/CSS/JS</span>
+            </div>
+            <div class="card-footer" style="text-align:center">
+              <a href="#" class="btn btn-primary" style="letter-spacing: 1px; word-spacing: 1px;">Learn More</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="col-lg-4 mb-4">
+          <div class="card h-100">
+            <h4 class="card-header">
+              <div style="text-align:center">
+                <br>
+                <a href="#" style="color: #75A102">Police Sci + Tech</a>
+                <br>
+                <br>
+                <h6 style="color: #586634">Online Community</h6>
+                <h6 style="color: #586634">Creator</h6>
+              </div>
+            </h4>
+            <div class="card-body">
+              <p class="card-text" style="color: #586634">
+                Police Sci + Tech is a community of developers that create innovative pojects inspired by advancements in technology and science in the field of law enforcement.
+              </p>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">community</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">online</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">social good</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">public safety</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">law enforcement</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">criminal justice</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">volunteers</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">developers</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">coders</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">programmers</span>
+            </div>
+            <div class="card-footer" style="text-align:center">
+              <a href="#" class="btn btn-primary" style="letter-spacing: 1px; word-spacing: 1px;">Learn More</a>
+            </div>
+          </div>
+        </div>
+      
+      <div class="col-lg-4 mb-4">
+          <div class="card h-100">
+            <h4 class="card-header">
+              <div style="text-align:center">
+                <br>
+                <a href="#" style="color: #75A102">Police Rewired</a>
+                <br>
+                <br>
+                <h6 style="color: #586634">Online Community</h6>
+                <h6 style="color: #586634">Member</h6>
+              </div>
+            </h4>
+            <div class="card-body">
+              <p class="card-text" style="color: #586634">
+                
+              Police Rewired are a community of volunteer professionals with an interest in policing technology, community safety, and fighting crime.
+
+              <br>
+              
+              We build tools to make people safer.
+
+              <br>
+              
+              We support and engage our members through a series of projects, hackathons, workshops and meet-ups. All our projects are open source and volunteer-led.
+
+              <br>
+              
+              We connect independent developers with policing organisations, front-line policing staff, community groups, and partners with interests aligned with ours to help develop world class solutions.
+              
+              </p>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">community</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">online</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">hackathon</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">social good</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">public safety</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">law enforcement</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">criminal justice</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">volunteers</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">developers</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">coders</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">programmers</span>
+            </div>
+            <div class="card-footer" style="text-align:center">
+              <a href="#" class="btn btn-primary" style="letter-spacing: 1px; word-spacing: 1px;">Learn More</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="col-lg-4 mb-4">
+          <div class="card h-100">
+            <h4 class="card-header">
+              <div style="text-align:center">
+                <br>
+                <a href="https://www.prescientist.org/" style="color: #75A102">Letters To A Pre-Scientist (LPS)</a>
+                <br>
+                <br>
+                <h6 style="color: #586634">Program</h6>
+                <h6 style="color: #586634">Participant</h6>
+              </div>
+            </h4>
+            <div class="card-body">
+              <p class="card-text" style="color: #586634">
+              
+              The mission of Letters to a Pre-Scientist is to demystify STEM careers and empower all students to see themselves as future scientists by creating personal connections between students from high-poverty schools and real scientists.
+              
+              <br>
+              
+              We help students form friendships with STEM professionals from around the world. Our program is a cross-curricular experience where students learn science while improving their reading and writing skills and broadening their understanding of world geography and culture. We believe that every student is a pre-scientist, and we aim to give them the tools they need to continue their education.
+
+              <br>
+              
+              At the core of our mission is a desire to see students of all races, ethnicities, and economic backgrounds succeed in their science education. For this reason, we focus on bringing our program to schools where at least 60% of students are from low-income families. As of 2013, nearly one-fifth of public school students in the US go to a school where 75% or more of the students are eligible for free and reduced-price lunch (source: National Center for Education Statistics; web archive).
+              
+              </p>
+              
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">community</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">career exploration</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">education</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">elementary</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">college</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">university</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">volunteers</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">scientists</span>
+            </div>
+            <div class="card-footer" style="text-align:center">
+              <a href="https://www.prescientist.org/" class="btn btn-primary" style="letter-spacing: 1px; word-spacing: 1px;">Learn More</a>
+            </div>
+          </div>
+        </div>
+      
+      <div class="col-lg-4 mb-4">
+          <div class="card h-100">
+            <h4 class="card-header">
+              <div style="text-align:center">
+                <br>
+                <a href="#" style="color: #75A102">Materials Research Society (MRS)</a>
+                <br>
+                <br>
+                <h6 style="color: #586634">Professional Society</h6>
+                <h6 style="color: #586634">Student Member</h6>
+              </div>
+            </h4>
+            <div class="card-body">
+              <p class="card-text" style="color: #586634">
+                Founded in 1973, and headquartered in Warrendale, Pennsylvania, The Materials Research Society is a growing, vibrant member-driven organization of almost 14,000. It includes men and women from over 90 countries around the world—from the richest of nations to developing countries.  Our members come from industry, academia and national labs, and their work touches on many fields, including chemistry, biology, physics and engineering.  They have skills and expertise that range from technical and organizational, to advocacy and education.  And they bring rich backgrounds, experiences, perspectives, talents, gifts and cultures to our community. 
+                <br>
+Our goal, as a Society, is to embrace, cultivate and capitalize on that diversity, and use it as a resource for a dynamic and vibrant future.  Together, we advance the MRS mission… to advance materials… and to improve the quality of life.
+                <br>
+If you are looking for a way to expand your professional network, enhance your leadership skills, or shape the future of our materials community, then we invite you to get involved.  Join or volunteer today!
+              </p>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">research</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">community</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">nonprofit</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">organization</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">NGO</span>
+            </div>
+            <div class="card-footer" style="text-align:center">
+              <a href="#" class="btn btn-primary" style="letter-spacing: 1px; word-spacing: 1px;">Learn More</a>
+            </div>
+          </div>
+        </div>
+        
+        <div class="col-lg-4 mb-4">
+          <div class="card h-100">
+            <h4 class="card-header">
+              <div style="text-align:center">
+                <br>
+                <a href="#" style="color: #75A102">American Physical Society</a>
+                <br>
+                <br>
+                <h6 style="color: #586634">Professional Society</h6>
+                <h6 style="color: #586634">Student Member</h6>
+              </div>
+            </h4>
+            <div class="card-body">
+              <p class="card-text" style="color: #586634">
+                The American Physical Society (APS) is a nonprofit membership organization working to advance and diffuse the knowledge of physics through its outstanding research journals, scientific meetings, and education, outreach, advocacy, and international activities. APS represents over 55,000 members, including physicists in academia, national laboratories, and industry in the United States and throughout the world. Society offices are located in College Park, MD (Headquarters), Ridge, NY, and Washington, D.C.
+              </p>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">research</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">community</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">nonprofit</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">organization</span>
+              <span class="badge badge-primary" style="letter-spacing: 1px; word-spacing: 1px;">NGO</span>
+            </div>
+            <div class="card-footer" style="text-align:center">
+              <a href="#" class="btn btn-primary" style="letter-spacing: 1px; word-spacing: 1px;">Learn More</a>
+            </div>
+          </div>
+        </div>
+        
+    </div>
+    
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+      
+  </div>
